@@ -8,7 +8,7 @@ import {
   AiOutlineContacts,
 } from "react-icons/ai";
 import { FcAbout } from "react-icons/fc";
-import profile from "./favicon-32x32.png";
+import profile from "./favicon-32x32.jpg";
 
 function Navbars() {
   return (
@@ -17,7 +17,7 @@ function Navbars() {
         <div class="container">
           <Link className="navbar-brand text-dark" to="/">
             <img src={profile} alt="" />{" "}
-            Pavana Vamsi
+            Pannala Rithika
           </Link>
 
           <button
